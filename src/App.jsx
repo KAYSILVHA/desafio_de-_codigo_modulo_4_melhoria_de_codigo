@@ -28,7 +28,7 @@ import TodoApp from "./components/Pages/TodoApp/TodoApp";;
 import QuizApp from "./components/Pages/QuizApp/QuizApp";
 import LanguageTranslator from "./components/Pages/Translator/LanguageTranslator";
 import Login from "./components/Pages/Login/Login";
-import "./App.css";
+import "./styles/App.css";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import {Footer, AppContainer, CarouselContainer, CarouselItem, MainContent, NavBar, NavBarToggle, ReturnButton, StyledLink, CustomCarousel } from "./styles/Styles";
 
