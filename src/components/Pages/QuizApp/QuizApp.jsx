@@ -1,7 +1,7 @@
 import { useState } from 'react'; // Importa o hook useState da biblioteca React para gerenciar o estado do componente.
 import { Container, OptionButton, Question, Score, Title, ErrorMessage } from './style/Style.js'; // Importa os componentes estilizados.
-import { questions } from '../utils/dataQuestions.js'; // Importa as perguntas do quiz.
-import { checkAnswer, getNextQuestionIndex } from '../utils/quizUtils.js'; // Importa funções auxiliares.
+import { questions } from '../../../utils/dataQuestions.js'; // Importa as perguntas do quiz.
+import { checkAnswer, getNextQuestionIndex } from '../../../utils/quizUtils.js'; // Importa funções auxiliares.
 
 const QuizApp = () => {
   const [score, setScore] = useState(0); // Estado para armazenar a pontuação do usuário.
