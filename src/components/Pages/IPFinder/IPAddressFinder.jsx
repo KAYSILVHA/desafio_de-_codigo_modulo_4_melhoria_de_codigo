@@ -1,5 +1,5 @@
 import { useState } from 'react'; // Importa o hook useState do React
-import { Button, Container, Input, ResultsContainer, Title, ErrorAlert } from './styles/Styles'; // Importa os componentes estilizados
+import { Button, Container, Input, ResultsContainer, Title, ErrorAlert } from './styles/Style'; // Importa os componentes estilizados
 import { fetchIPData } from '../../../Services/IpService/index.js'; // Importa o serviço para buscar dados do IP
 
 // Componente principal IPAddressFinder
