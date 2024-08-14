@@ -109,6 +109,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Projeto
 
+O projeto é um aplicativo multifuncional, que integra várias ferramentas úteis em uma única plataforma. As principais funcionalidades incluem:
+
+1 - Localizador de IP: Permite encontrar o endereço IP de um dispositivo ou site rapidamente.
+
+2 - Pesquisa de Filmes: Uma aplicação para buscar informações sobre filmes, como sinopse, elenco, e avaliações.
+
+3 - Gerador de QR Codes: Ferramenta para criar QR Codes personalizados, facilitando o compartilhamento de links e informações.
+
+4 - Quiz de Perguntas e Respostas: Um jogo interativo com perguntas em diversos temas, ideal para testar conhecimentos e aprender de forma divertida.
+
+5- Gerenciador de Tarefas: Uma aplicação para organizar e gerenciar tarefas diárias, com funcionalidades como adicionar, editar, e marcar tarefas como concluídas.
+
+6 - Tradutor de Textos: Um tradutor integrado que facilita a tradução de textos entre diferentes idiomas de forma rápida e eficiente.
 
 <br>
 
