@@ -105,3 +105,72 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 └── main.jsx
 
 ```
+<br>
+
+## 🚀 Projeto
+
+O projeto é um aplicativo multifuncional, que integra várias ferramentas úteis em uma única plataforma. As principais funcionalidades incluem:
+
+1 - Localizador de IP: Permite encontrar o endereço IP de um dispositivo ou site rapidamente.
+
+2 - Pesquisa de Filmes: Uma aplicação para buscar informações sobre filmes, como sinopse, elenco, e avaliações.
+
+3 - Gerador de QR Codes: Ferramenta para criar QR Codes personalizados, facilitando o compartilhamento de links e informações.
+
+4 - Quiz de Perguntas e Respostas: Um jogo interativo com perguntas em diversos temas, ideal para testar conhecimentos e aprender de forma divertida.
+
+5- Gerenciador de Tarefas: Uma aplicação para organizar e gerenciar tarefas diárias, com funcionalidades como adicionar, editar, e marcar tarefas como concluídas.
+
+6 - Tradutor de Textos: Um tradutor integrado que facilita a tradução de textos entre diferentes idiomas de forma rápida e eficiente.
+
+<br>
+
+## 🚀 Executar
+Siga os passos abaixo para configurar e executar o projeto localmente em sua máquina:
+
+### Pré-requisitos
+Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em seu ambiente de desenvolvimento:
+
+- Node.js (Versão recomendada: 16.x ou superior)
+- Yarn ou npm (gerenciador de pacotes)
+ 
+### Passos para Configuração
+
+- Clone o repositório:
+  ```
+  git clone https://github.com/seu-usuario/multi-app.git
+  ```
+- Navegue até o diretório do projeto
+
+- Instale as dependências:
+  - Se você estiver usando Yarn:
+   
+    ```
+    yarn install
+    ```
+  - Ou, se você estiver usando npm:
+   
+    ```
+    npm install
+    ```
+
+### Executando o Projeto
+
+- Inicie o servidor de desenvolvimento:
+  - Com Yarn:
+
+    ```
+    yarn dev
+    ```
+    
+  - Ou, com npm
+
+    ```
+    npm run dev
+    ```
+
+- O comando acima iniciará o servidor de desenvolvimento. Você poderá acessar o projeto através do seguinte endereço no navegador:
+  
+  ```
+  http://localhost:5173/
+  ```
